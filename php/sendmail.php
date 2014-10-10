@@ -1,6 +1,6 @@
 <?php if(!$_POST) exit;
 
-	$to 		= "support@origosoftware.com";
+	$to 		= "info@webtradeexchange";
 
 	$email 		= $_POST['email'];
 

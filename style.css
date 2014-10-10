@@ -909,4 +909,91 @@
 		#delicate-style-picker .hr { background:url(images/style-picker/seperator.png) no-repeat; width:100%; height:25px; margin:-10px 0px 10px; float:left; }
 		
 		.style-picker-ico { position:absolute; top:25px; left:225px; }
+
+
+
+/*lynup extends*/
+.partner-carousel li img{
+	display: inline-block;
+	position: relative;
+	margin-top: 17px;
+}
+
+.one_half{
+	float: left;
+margin-bottom: 20px;
+margin-right: 4%;
+position: relative;
+width: 500px;
+}
+
+.last {
+margin-right: 0px!important;
+}
+
+.icons-ul{
+	/*margin-left: 2.142857142857143em;*/
+list-style-type: none;
+}
+
+#project-options h2 {
+margin: 40px 0;
+width: 115%;
+}
+
+.icons-ul li, .icons-ul{
+	color: #999999;
+margin-bottom: 10px;
+font-size: 14px;
+line-height: 24px;
+}
+
+.icons-ul .icon-li{
+	position: absolute;
+left: -2.142857142857143em;
+width: 2.142857142857143em;
+text-align: center;
+line-height: inherit;
+color: #E57025;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+display: inline;
+width: auto;
+height: auto;
+line-height: normal;
+vertical-align: baseline;
+background-image: none;
+background-position: 0% 0%;
+background-repeat: repeat;
+margin-top: 0;
+}
+
+a.newave-button {
+border-radius: 3px;
+font-family: 'Montserrat', sans-serif;
+letter-spacing: 0;
+text-transform: uppercase;
+display: inline-block;
+background-color: #E57025;
+}
+
+.grey:hover {
+background-color: #222222;
+color: #fff;
+}
+
+.grey {
+color: #FFF;
+}
+.medium {
+font-size: 14px;
+line-height: 14px;
+padding: 10px 15px;
+line-height: 14px;
+}
+
+
+
+
 		
